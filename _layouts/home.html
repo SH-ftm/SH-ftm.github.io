@@ -2,6 +2,8 @@
 layout: archive
 ---
 
+<body>
+<html>
 {{ content }}
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
@@ -20,4 +22,7 @@ layout: archive
 </div>
 
 {% include paginator.html %}
-{% include audio.html %}
+
+{% include open-embed.html %}
+</body>
+</html>
