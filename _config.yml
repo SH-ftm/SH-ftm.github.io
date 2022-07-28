@@ -20,7 +20,7 @@ title                    : "Fly Me To The Moon"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "SH"
-description              : "I can do it, just keep going"
+description              : "Just do it"
 url                      : "https://castle-h.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,13 +104,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Sung Hwi Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I"
+  location         : "South Korea, Seoul"
   email            :
   links:
-    - label: "Email"
+    - label: "sunghwi.work@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
