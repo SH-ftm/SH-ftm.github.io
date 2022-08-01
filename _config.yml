@@ -15,18 +15,18 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "Fly Me To The Moon"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "I want a fly"
 name                     : "SH"
 description              : "Just do it"
 url                      : "https://castle-h.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : "/blog"
+repository               : "castle-h/castle-h.github.vom"
 teaser                   : "/assets/images/moon02.png"
 logo                     : "/assets/images/moon02.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Do It Death"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Sung Hwi Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I"
-  location         : "South Korea, Seoul"
-  email            :
+  bio              : "I want to fly to the moon I yearn for"
+  location         : "Republic of Korea, Seoul"
+  email            : "sunghwi.wor@gmail.com"
   links:
     - label: "sunghwi.work@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
