@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I want to fly to the moon I yearn for"
   location         : "Republic of Korea, Seoul"
-  email            : "sunghwi.wor@gmail.com"
+  email            : "sunghwi.work@gmail.com"
   links:
     - label: "sunghwi.work@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
